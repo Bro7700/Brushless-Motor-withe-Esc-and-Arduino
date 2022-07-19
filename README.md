@@ -33,12 +33,12 @@ A brushless motor is a direct current (DC) electric motor that operates without 
 
 ## Connections
 
-connecting  to  in  Ardunio
-connecting  to  in  Ardunio
-connecting  to  in  Ardunio
-connecting  to  in  Ardunio
-connecting 
-connecting  
+connecting potentiometer  to A0 pin  in  Ardunio and to ESC terminal gnr to gnr 
+connecting ESC  to 5V in  Ardunio
+connecting Brushless terminal (A1 . A2 . A3)  to (B1 . B2 . B3) in  ESC 30A
+connecting betrry  to ESC 30A  
+connecting signal ESC 30A to 8 PIN in Arduino
+ 
 
 
 
